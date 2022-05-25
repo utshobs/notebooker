@@ -230,6 +230,7 @@ h6 {
 @media screen and (max-width: 600px) {
     #hero {
         margin-top: 7px;
+        height: auto;
     }
 
 }

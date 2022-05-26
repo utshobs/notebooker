@@ -227,14 +227,8 @@ h6 {
 
 @media screen and (max-width: 600px) {
     #hero {
-        margin-top: -110px;
+        margin-top: auto;
         height: auto;
-    }
-    #head1{
-        visibility: hidden;
-    }
-    #para1{
-        visibility: hidden;
     }
     #bR3{
         display: none;

@@ -129,6 +129,9 @@ window.onload = function() {
             console.log(html);
             document.getElementById("suggestion").style.display = "none";
             document.getElementById("emergency").style.display = "none";
+            document.getElementById("hero").style.marginTop = "-110px";
+            document.getElementById("para1").style.visibility = "hidden";
+            document.getElementById("head1").style.visibility = "hidden";
             document.getElementById("bR1").style.display = "none"
             document.getElementById("bR2").style.display = "none"
             matchList.innerHTML = html;

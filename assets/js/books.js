@@ -129,11 +129,15 @@ window.onload = function() {
             console.log(html);
             document.getElementById("suggestion").style.display = "none";
             document.getElementById("emergency").style.display = "none";
+            document.getElementById("bR1").style.display = "none"
+            document.getElementById("bR2").style.display = "none"
             matchList.innerHTML = html;
         } else {
             matchList.innerHTML = null;
             document.getElementById("suggestion").style.display = "inline-block";
             document.getElementById("emergency").style.display = "inline-block";
+            document.getElementById("bR1").style.display = "block"
+            document.getElementById("bR2").style.display = "block"
         }
     };
 

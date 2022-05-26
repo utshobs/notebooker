@@ -236,6 +236,13 @@ h6 {
     #para1{
         visibility: hidden;
     }
+    #bR3{
+        display: none;
+    }
+    #search{
+        margin-bottom: 10px;
+    }
+
 
 }
 

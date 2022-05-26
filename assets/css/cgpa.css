@@ -81,6 +81,17 @@ h6 {
     padding: 0;
 }
 
+#home{
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+    text-align: center;  
+}
+#homePic{
+    height: 25px;
+    width: 25px;
+}
+
 .navbar ul {
     margin: 0;
     padding: 0;

@@ -3,7 +3,7 @@ let database = [{
         name: "Alternating-Current Circuits",
         author: " - R.M. Kerchne, G.F. Corcoran",
         for: "EEE151 (Year-1 Semester-2)",
-        link: "http://www.portcity.edu.bd/files/636443307011697543_Alternatingcurrentcircuits.pdf",
+        link: "https://drive.google.com/file/d/17wztNs9gSNvf2DGUnR_mQQc-ker6tGQ8/view?usp=sharing",
     },
     {
         name: "Introductory Circuit Analysis",

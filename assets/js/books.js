@@ -76,6 +76,18 @@ let database = [{
         author: " - Arun Bahl  B.s. Bahl",
         for: "CHE185 (Year-1 Semester-2)",
         link: "https://drive.google.com/file/d/16HpygC4xgM6Tduz0GcdkS8BVpk-CktRQ/view?usp=sharing",
+    }, 
+    {   //Math books
+        name: "Differential equations 3rd edition",
+        author: " -  Shepley L.Ross",
+        for: "MAT157 (Year-1 Semester-2)",
+        link: "https://drive.google.com/file/d/1n_S2XTGk0g0-5S74_8i7T0SQ0kT0Z62K/view?usp=sharing",
+    }, 
+    {
+        name: "Introduction to Differential Equations_4th_ed_1989",
+        author: " - L.Ross",
+        for: "MAT157 (Year-1 Semester-2)",
+        link: "https://drive.google.com/file/d/1WAo1nwFcd87Z8wgNTwnzoMZFuDOnAK-f/view?usp=sharing",
     }
 
     
